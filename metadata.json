@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix Ideal Collections",
+  "description": "Ideal Collections - Pakistan\u0027s premier online store for innovative kitchen gadgets, smart cooking tools, modern organizers, and home essentials with Cash on Delivery across Pakistan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
